@@ -1,5 +1,5 @@
 # Mi Portfolio Profesional 🎨
-Este repositorio contiene un prototipo de mi portfolio profesional, desarrollado como proyecto final del curso Web Responsive Design de freeCodeCamp. La estructura y el diseño se han realizado utilizando solo HTML y CSS.
+Este repositorio contiene un prototipo de mi portfolio profesional, desarrollado como proyecto final del curso Responsive Web Design de freeCodeCamp. La estructura y el diseño se han realizado utilizando solo HTML y CSS.
 
 ## Descripción
 La página permite al usuario obtener más información sobre mis últimos trabajos como diseñadora gráfica. La interfaz se ha diseñado de manera sencilla, profesional y minimalista.
